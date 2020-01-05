@@ -18,7 +18,7 @@ while(temp!=0)
 	}
 System.out.println(sum);
 
-	if(sum==temp)
+	//if(sum==temp)
 	{
 		System.out.println("its armstrong number");
 	}
